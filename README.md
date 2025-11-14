@@ -1,5 +1,5 @@
-Depth potential functions applicable to Pt Ni alloys and Pt, Ni elements
-The molecular dynamics software LAMMPS, which has successfully compiled the DeepMD module, can be used to load and utilize this model for publishing academic papers
-Usage:
-Please use Git to clone the repository locally:
+This repository provides the deep potential model parameters for Pt-Ni alloys and elemental Pt/Ni, developed in support of the research presented in our thesis. The model is compatible with LAMMPS when compiled with the DeepMD-kit package, enabling molecular dynamics simulations as described in the associated work.
+To obtain the model, clone this repository using Git:
+
+
 git clone  https://github.com/airclearoo/deeppotentials-Pt-Ni.git
